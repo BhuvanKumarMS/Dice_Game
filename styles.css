@@ -23,5 +23,42 @@ p {
 
 .dice {
     display: inline-block;
-    width: 20%;
+    width: 300px;
+}
+
+.Ref_Button {
+    display: block;
+    text-align: center;
+    margin: 70px;
+}
+
+#btn {
+    font-family: 'Lobster', cursive;
+    padding: 25px 100px;
+    border-radius: 100px;
+    background-color: #4ECCA3;
+    font-size: 25px;
+    color: white;
+    text-shadow: 2px 0 #232931;
+    border: 0;
+    box-shadow: 5px 5px 10px #232931;
+}
+
+#btn:hover {
+    opacity: 0.5;
+}
+
+@media (min-width: 0) and (max-width: 480px) {
+    h1 {
+        font-size: 4rem;
+        margin: 20px;
+    }
+
+    p {
+        font-size: 1.5rem;
+    }
+
+    img {
+        width: 150px;
+    }
 }
