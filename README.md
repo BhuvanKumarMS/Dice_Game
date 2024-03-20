@@ -5,4 +5,4 @@ This repository contains the code for a website where two dice are rolled random
 
 The code is written in HTML, CSS and JS without the use of any library, framework etc
 
-Try it out from yourself: https://bhuvankumarms.github.io/Dice_Game/
+Try it out for yourself: https://bhuvankumarms.github.io/Dice_Game/
